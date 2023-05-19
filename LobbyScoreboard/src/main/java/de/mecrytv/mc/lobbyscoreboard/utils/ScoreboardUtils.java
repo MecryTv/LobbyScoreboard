@@ -11,7 +11,7 @@ import org.bukkit.scoreboard.Scoreboard;
 
 public class ScoreboardUtils {
 
-    private static LuckPerms luckPerms = LobbyScoreboard.getApi;
+    private static LuckPerms luckPerms = LobbyScoreboard.getApi();
 
 
     public static Scoreboard getBaseScoreboard(Player player){

@@ -1,0 +1,6 @@
+name: LobbyScoreboard
+version: '1.0-SNAPSHOT'
+main: de.mecrytv.mc.lobbyscoreboard.LobbyScoreboard
+api-version: 1.19
+depend:
+    - LuckPerms
